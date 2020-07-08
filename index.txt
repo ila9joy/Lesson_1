@@ -1,0 +1,10 @@
+interface Factory<T> {
+T build(Metadata d)
+}
+class ClientFactory implements Factory<Client> {
+Client build(Metadata d) {
+    // new add
+    new files To commit
+        // Build actual object and return      
+    }
+}
